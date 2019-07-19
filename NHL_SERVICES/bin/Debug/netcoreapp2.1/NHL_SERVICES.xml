@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NHL_SERVICES</name>
+    </assembly>
+    <members>
+        <member name="M:NHL_SERVICES.Controllers.Medecins.LesMedecinsController.DeleteMedecin(System.String)">
+            <summary>
+            Deletes a specific Les Medecins.
+            </summary>
+            <param name="id"></param> 
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+D:\new_NHL\NHL_DAL\bin\Debug\netcoreapp2.1\NHL_DAL.deps.json
+D:\new_NHL\NHL_DAL\bin\Debug\netcoreapp2.1\NHL_DAL.dll
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.csproj.CoreCompileInputs.cache
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.AssemblyInfoInputs.cache
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.AssemblyInfo.cs
+D:\new_NHL\NHL_DAL\bin\Debug\netcoreapp2.1\NHL_DAL.runtimeconfig.json
+D:\new_NHL\NHL_DAL\bin\Debug\netcoreapp2.1\NHL_DAL.runtimeconfig.dev.json
+D:\new_NHL\NHL_DAL\bin\Debug\netcoreapp2.1\NHL_DAL.pdb
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.dll
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.pdb
+D:\new_NHL\NHL_DAL\obj\Debug\netcoreapp2.1\NHL_DAL.csprojAssemblyReference.cache

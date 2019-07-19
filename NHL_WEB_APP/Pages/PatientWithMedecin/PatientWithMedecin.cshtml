@@ -1,0 +1,31 @@
+﻿@page
+@model NHL_WEB_APP.Pages.PatientWithMedecin.PatientWithMedecinModel
+@{
+    ViewData["Title"] = "PatientWithMedecin";
+}
+
+<h2>PatientWithMedecin</h2>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var items in Model.Medecins)
+            {
+            <tr>
+                <td>@items.Id_Medecin</td>
+                <td>@items.Nom_Medecin</td>
+                <td>@items.Prenom_Medecin</td>
+                <td>@items.Specialite_Medecin</td>
+                <td>@items.Patients</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
